@@ -1,0 +1,33 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+    font-family: 'Rajdhani', sans-serif;
+
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: #FF0000;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+body{
+    background: linear-gradient(#FF9700 0%, #FF0000 100%);
+}
